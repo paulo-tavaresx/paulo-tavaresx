@@ -15,12 +15,16 @@
     <br/>
 <div align="center" style="display: flex;justify-content: space-between;">
     <a href="https://github.com/paulo-tavaresx">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paulo-tavaresx&theme=prussian&show_icons=true&count_private=true"/>
-    <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-tavaresx&layout=compact&theme=prussian"/>
+    <div>   
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paulo-tavaresx&theme=prussian&show_icons=true&count_private=true"/>
+    </div>
+    <img   src="https://github-readme-stats.vercel.app/api/wakatime/?username=paulotavaresx&layout=compact&theme=prussian"/>
 
 </div>
- 
     
-## working in progress  !!
+   
+    
+    
+## Techs  !!
     
 
