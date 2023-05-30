@@ -30,9 +30,6 @@
     <br/>
 <div style="display: flex;justify-content: space-between;">
     <a href="https://github.com/paulo-tavaresx">
-    <div>   
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paulo-tavaresx&theme=prussian&show_icons=true&count_private=true&include_all_commits"/>
-    </div>
     <img   src="https://github-readme-stats.vercel.app/api/wakatime/?username=paulotavaresx&layout=compact&theme=prussian&custom_title=Most%20Used%20Language&langs_count=8"/>
 
 </div>
