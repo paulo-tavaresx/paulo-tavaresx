@@ -1,4 +1,6 @@
 #### Olá me chamo Paulo
+* Sou um desenvolvedor front-end em constante busca por conhecimento e aprimoramento, pois acredito que esses são os pilares para me destacar nessa área em constante evolução. Estou dedicando meu tempo e energia para me tornar um desenvolvedor full-stack, e estou animado com as oportunidades que essa carreira oferece.
+
 
 * Tenho 25 anos
 * Atualmente estou estudando pra me tornar desenvolvedor full stack
