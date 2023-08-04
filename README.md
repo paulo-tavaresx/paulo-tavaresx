@@ -39,7 +39,7 @@
     <br/>
 <div style="display: flex;justify-content: space-between;">
     <a href="https://github.com/paulo-tavaresx">
-    <img   src="https://github-readme-stats.vercel.app/api/wakatime/?username=paulotavaresx&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=6"/>
+    <img   src="https://github-readme-stats.vercel.app/api/wakatime/?username=paulotavaresx&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=8"/>
 
 </div>
     
