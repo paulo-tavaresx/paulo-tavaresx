@@ -3,7 +3,7 @@
 
 
 * Tenho 25 anos
-* Atualmente estou aprimorando meus conhecimentos.
+
 
 
 ## Contato
