@@ -2,7 +2,7 @@
 * Sou um desenvolvedor full-stack em constante busca por conhecimento e aprimoramento, pois acredito que esses são os pilares que me destacam nessa área em constante evolução. Dedico meu tempo e energia para me aperfeiçoar, e estou animado com as oportunidades que essa carreira oferece.
 
 
-* Tenho 25 anos
+* Tenho 26 anos
 
 
 
