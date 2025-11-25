@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Paulo
 
-Sou um desenvolvedor backend apaixonado por tecnologia, com foco em criar APIs robustas, organizadas e escaláveis. Iniciei minha jornada como desenvolvedor há alguns meses e, desde então, tenho estudado constantemente para evoluir minhas habilidades e contribuir com projetos de impacto.
+Sou um desenvolvedor back-end apaixonado por tecnologia, com foco em criar APIs robustas, organizadas e escaláveis. Iniciei minha jornada como desenvolvedor há alguns meses e, desde então, tenho estudado constantemente para evoluir minhas habilidades e contribuir com projetos de impacto.
 
 ---
 
