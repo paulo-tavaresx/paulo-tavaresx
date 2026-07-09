@@ -44,11 +44,6 @@ Sou um desenvolvedor back-end apaixonado por tecnologia, com foco em criar APIs 
 <div  style="display: flex;">   
     <img src="https://wakatime.com/badge/user/9d847695-5a62-480f-92e6-857a09c8ca1a.svg"/>
 </div>
-    <br/>
-<div style="display: flex;justify-content: space-between;">
-    <img   src="https://github-readme-stats.vercel.app/api/wakatime/?username=paulotavaresx&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=8"/>
-
-</div>
 
 ---
 
