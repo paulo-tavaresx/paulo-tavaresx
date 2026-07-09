@@ -41,11 +41,11 @@ Sou um desenvolvedor back-end apaixonado por tecnologia, com foco em criar APIs 
 
 ## 📊 Status
 
-<div  style="display: flex;">   
+<div  align="center">   
     <img src="https://wakatime.com/badge/user/9d847695-5a62-480f-92e6-857a09c8ca1a.svg"/>
 </div>
 <div align="center">
-    <img src="https://wakatime.com/share/@Jonata/8a3275d1-7019-4d70-aefa-818a720fae84.png" width="500" alt="Languages Stats"/>
+    <img src="https://wakatime.com/share/@paulotavaresx/610e28bb-02c0-4327-8b5a-f079be972950.png" width="500" alt="Languages Stats"/>
 </div>
 
 
